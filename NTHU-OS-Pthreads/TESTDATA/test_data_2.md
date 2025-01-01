@@ -1,0 +1,686 @@
+## 2.1 (20/80)
+-----------------------------------------------
+### test1
+Scaling up consumers from 0 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+Scaling down consumers from 10 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+Scaling down consumers from 10 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+### Total execution time: 59709 ms
+-----------------------------------------------
+### test2
+### Total execution time: 59710 ms
+-----------------------------------------------
+
+## 2.2 (10/80)
+-----------------------------------------------
+### test1
+Scaling up consumers from 0 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+Scaling down consumers from 10 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+Scaling down consumers from 10 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+Scaling up consumers from 10 to 11
+Scaling down consumers from 11 to 10
+### Total execution time: 60205 ms
+-----------------------------------------------
+### test2
+Scaling up consumers from 0 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+Scaling down consumers from 10 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+Scaling down consumers from 10 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+### Total execution time: 59807 ms
+-----------------------------------------------
+### test3
+Scaling up consumers from 0 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+### Total execution time: 103397 ms
+-----------------------------------------------
+
+
+## 2.3 (20/90)
+-----------------------------------------------
+### test1
+Scaling up consumers from 0 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+Scaling down consumers from 10 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+Scaling down consumers from 10 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+### Total execution time: 60813 ms
+-----------------------------------------------
+### test2
+Scaling up consumers from 0 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+### Total execution time: 73602 ms
+-----------------------------------------------
+### test3
+Scaling up consumers from 0 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling down consumers from 6 to 5
+### Total execution time: 104824 ms
+-----------------------------------------------
+
+
+
+## 2.4 (30/70)
+-----------------------------------------------
+### test1
+Scaling up consumers from 0 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+Scaling down consumers from 10 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+Scaling down consumers from 10 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+### Total execution time: 58890 ms
+-----------------------------------------------
+### test2
+Scaling up consumers from 0 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+### Total execution time: 69864 ms
+-----------------------------------------------
+### test3
+Scaling up consumers from 0 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+Scaling down consumers from 10 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+Scaling down consumers from 10 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+### Total execution time: 58839 ms
+-----------------------------------------------
+
+
+
+## 2.5 (40/60)
+-----------------------------------------------
+### test1
+Scaling up consumers from 0 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+Scaling down consumers from 10 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+Scaling up consumers from 10 to 11
+Scaling down consumers from 11 to 10
+Scaling down consumers from 10 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+Scaling down consumers from 10 to 9
+### Total execution time: 58890 ms
+-----------------------------------------------
+### test2
+Scaling up consumers from 0 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+### Total execution time: 210152 ms
+-----------------------------------------------
+### test3
+Scaling up consumers from 0 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+Scaling down consumers from 10 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+Scaling up consumers from 10 to 11
+Scaling down consumers from 11 to 10
+Scaling down consumers from 10 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling up consumers from 9 to 10
+### Total execution time: 59688 ms
+-----------------------------------------------
+### test4
+Scaling up consumers from 0 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling down consumers from 9 to 8
+### Total execution time: 70809 ms
+-----------------------------------------------
+### test5
+Scaling up consumers from 0 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling down consumers from 9 to 8
+Scaling down consumers from 8 to 7
+Scaling down consumers from 7 to 6
+Scaling down consumers from 6 to 5
+Scaling down consumers from 5 to 4
+Scaling down consumers from 4 to 3
+Scaling down consumers from 3 to 2
+Scaling down consumers from 2 to 1
+Scaling up consumers from 1 to 2
+Scaling up consumers from 2 to 3
+Scaling up consumers from 3 to 4
+Scaling up consumers from 4 to 5
+Scaling up consumers from 5 to 6
+Scaling up consumers from 6 to 7
+Scaling up consumers from 7 to 8
+Scaling up consumers from 8 to 9
+Scaling down consumers from 9 to 8
+### Total execution time: 70782 ms
+-----------------------------------------------
