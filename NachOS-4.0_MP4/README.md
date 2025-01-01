@@ -3,5 +3,10 @@
 2. [Report](MP4_report_26.pdf)
 2. [Report with Demo Question](report_question.pdf)
 
-
+--------
+> Final Score
+> * Demo: X/20
+> * Testcase: X/60
+> * Report: X/20
+--------
 > If you have any questions, feel free to ask.
