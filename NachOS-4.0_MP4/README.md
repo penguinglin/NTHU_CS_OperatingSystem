@@ -8,5 +8,6 @@
 > * Demo: X/20
 > * Testcase: X/60
 > * Report: X/20
+> * Bonus: X/15 (5% each)
 --------
 > If you have any questions, feel free to ask.
