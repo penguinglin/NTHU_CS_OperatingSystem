@@ -3,5 +3,10 @@
 2. [Report](MP2_report_26.pdf)
 3. [Report](OS_Hw2_Demo.pdf)
 
-
+-------- 
+> Final Score
+> * demo: 20/20
+> * testcase: 60/60
+> * report: 16/20
+--------
 > If you have any questions, feel free to ask.
