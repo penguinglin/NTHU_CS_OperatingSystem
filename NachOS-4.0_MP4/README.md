@@ -10,4 +10,3 @@
 > * Report: 20/20
 > * Bonus: 5/15 (5% each)
 --------
-> If you have any questions, feel free to ask.
