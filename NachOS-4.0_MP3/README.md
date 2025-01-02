@@ -8,4 +8,3 @@
 > * Testcase: 42/56
 > * Report: 17.2/20
 --------
-> If you have any questions, feel free to ask.
