@@ -9,4 +9,3 @@
 > * testcase: 50/50
 > * report: 28/30
 --------
-> If you have any questions, feel free to ask.
