@@ -4,9 +4,9 @@
 3. [Report with Demo Question](report_question.pdf)
 --------
 > Final Score
-> * Experiment: X/20
-> * Implementation: X/50
-> * Report: X/15
-> * Demo: X/15
+> * Experiment: 20/20
+> * Implementation: 45/50
+> * Report: 13/15
+> * Demo: 15/15
 --------
 > If you have any questions, feel free to ask.
