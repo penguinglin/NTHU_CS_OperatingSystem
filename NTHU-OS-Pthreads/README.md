@@ -9,4 +9,3 @@
 > * Report: 13/15
 > * Demo: 15/15
 --------
-> If you have any questions, feel free to ask.
