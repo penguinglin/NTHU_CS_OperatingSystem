@@ -6,7 +6,7 @@
 --------
 > Final Score
 > * Demo: 20/20
-> * Testcase: 20/60
+> * Testcase: 15/60
 > * Report: 20/20
-> * Bonus: 5/15 (5% each)
+> * Bonus: 10/15 (5% each)
 --------
